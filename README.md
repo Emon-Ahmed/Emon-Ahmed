@@ -42,6 +42,9 @@
 
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=technicalboyemon)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## ❤ Views and Followers
 <a href="https://github.com/technicalboyemon/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=technicalboyemon">
