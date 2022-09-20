@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Professional MERN STACK Developer.</h3>
 
 
-## 🙋‍♂️ About Me 👋
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Frontend Project**
 
