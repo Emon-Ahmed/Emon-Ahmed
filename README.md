@@ -36,12 +36,10 @@
 ## 📊 Connect with me:
 <p align="left">
 
+<a href = "https://twitter.com/EmonAhmedDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/emon-ahmed-433538201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UCBDPXQ57QzIOcLbk5ytylsQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=technicalboyemon)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## ❤ Views and Followers
