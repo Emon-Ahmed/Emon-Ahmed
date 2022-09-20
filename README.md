@@ -43,7 +43,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/technicalboyemon/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=technicalboyemon">
+<a href="https://github.com/EmonJS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=EmonJS">
 </a>
-<a href="https://github.com/technicalboyemon?tab=followers"><img src="https://img.shields.io/github/followers/technicalboyemon?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/EmonJS?tab=followers"><img src="https://img.shields.io/github/followers/EmonJS?label=Followers&style=social" alt="GitHub Badge"></a>
