@@ -31,9 +31,9 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/emon.index) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/emon_coder/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon-dev/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18454194/emon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/EmonAhmedDev)
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 
 <a href="https://github.com/EmonJS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=EmonJS">
 </a>
-<a href="https://github.com/EmonJS?tab=followers"><img src="https://img.shields.io/github/followers/EmonJS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/EmonJS?tab=followers"><img src="https://img.shields.io/github/followers/EmonJS?label=Followers&style=social" alt="GitHub Badge"></a> -->
