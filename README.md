@@ -39,3 +39,8 @@
 <span>
     <img src="https://img.shields.io/github/followers/EmonJS?label=Followers&style=for-the-badge&logo=github" alt="GitHub Badge">
 </span>
+<span>
+     <a href="https://twitter.com/EmonAhmedDev" target="blank">
+         <img src="https://img.shields.io/twitter/follow/EmonAhmedDev?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
+    </a>
+</span>
