@@ -13,6 +13,8 @@
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
+- 💬 Ask me about anything, Except Maths 😅
+
 - 👨‍💻 All of my projects are available at **[Here](https://emonahmed.com/)**
 
 - 📫 How to reach me **technicalboyemon@gmail.com**
