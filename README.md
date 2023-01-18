@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./color-cover.png" /></a>
+<a href="#"><img width="100%" height="auto" src="./cat-cover.png" /></a>
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
