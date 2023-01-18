@@ -34,6 +34,6 @@
 ## ❤️ Views and Followers
 
 <a href="https://github.com/EmonJS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=EmonJS">
+    <img src="https://komarev.com/ghpvc/?username=EmonJS&style=for-the-badge">
 </a>
-<a href="https://github.com/EmonJS?tab=followers"><img src="https://img.shields.io/github/followers/EmonJS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/EmonJS?tab=followers"><img src="https://img.shields.io/github/followers/EmonJS?label=Followers&style=for-the-badge&logo=github" alt="GitHub Badge"></a>
