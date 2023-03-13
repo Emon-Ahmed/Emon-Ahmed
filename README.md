@@ -36,10 +36,10 @@
 ## ❤️ Views & Followers
 
 <span>
-    <img src="https://komarev.com/ghpvc/?username=EmonJS&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Emon-Ahmed&style=for-the-badge">
 </span>
 <span>
-    <img src="https://img.shields.io/github/followers/EmonJS?label=Followers&style=for-the-badge&logo=github" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/Emon-Ahmed?label=Followers&style=for-the-badge&logo=github" alt="GitHub Badge">
 </span>
 <!--
 <span>
