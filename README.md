@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **MERN STACK Projects**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+- 🌱 I’m currently learning **Mobile App Development & DSA**
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
-- 👨‍💻 All of my projects are available at **[Here](https://emonahmed.com/)**
+<!-- - 👨‍💻 All of my projects are available at **[Here](https://emonahmed.com/)** -->
 
 - 💬 Ask me about anything, Except Maths 😅
 
-- 📫 How to reach me **technicalboyemon@gmail.com**
+- 📫 How to reach me **emonahmed.cse@gmail.com**
 
 <!-- - ⚡ Fun fact **I Love Coding** -->
 
