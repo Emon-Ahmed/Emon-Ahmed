@@ -26,7 +26,7 @@
 <p align="left">
     
 - 🖥 **Front-end:**
-     - **📜 Languages:** • `Python` • `JavaScript/TypeScript`
+     - **📜 Languages:** • `JavaScript/TypeScript`
   - **🔬 Frameworks:**
     <!-- - **🖥 Desktop:** • `Tauri` -->
     - **🌐 Web:** • `ReactJS` • `NextJS`
