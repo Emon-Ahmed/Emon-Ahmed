@@ -33,8 +33,8 @@
     - **📱 Mobile:** • `React Native` • `Expo` • `Native Wind`
   - **🗳 UI Toolkits:** • `Bootstrap` • `TailwindCSS` • `NextUI`
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `Python` • `JavaScript/TypeScript[NodeJS]`
-  - **🔭 Frameworks:** • `ExpressJS` • `Django`
+  - **📜 Languages:** • `JavaScript/TypeScript[NodeJS]`
+  - **🔭 Frameworks:** • `ExpressJS`
   - **💾 Databases:** • `MongoDB` • `Mongoose[ODM]`
   <!-- - **🎛 System architecture:** • `Microservices` -->
   - **🔌 Communication Protocols:** • `RESTsfull API` • `GraphQL` • `Web Socket`
