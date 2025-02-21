@@ -9,9 +9,9 @@
 
 <!-- - 🔭 I’m currently working on **Personal Projects** -->
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **Remote Job**
+- 👯 I’m looking to collaborate on **Job**
 
 - 👨‍💻 All of my projects are available at **[emonahmed.xyz](https://emonahmed.xyz/)**
 
